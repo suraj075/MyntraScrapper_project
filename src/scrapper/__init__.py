@@ -1,0 +1,1 @@
+# what Scrapper folder does ?  --> contains all the logic for scraping the data
